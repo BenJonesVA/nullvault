@@ -10,6 +10,30 @@ Built for scam baiting, OSINT, and catching unauthorized access to sensitive mat
 
 ---
 
+## Screenshots
+
+### Creating a link
+
+| Create form | Link generated |
+|---|---|
+| ![Create a secret link](screenshots/create-link.png) | ![Public/control URLs and QR code](screenshots/link-generated.png) |
+
+### What the target sees
+
+| Banking decoy | Secret revealed |
+|---|---|
+| ![Banking decoy template](screenshots/decoy-banking.png) | ![Revealed secret content](screenshots/secret-revealed.png) |
+
+### Private control panel
+
+![Dashboard overview with world map and activity chart](screenshots/dashboard-overview.png)
+
+| Access timeline | IP / OSINT lookups | Device breakdown |
+|---|---|---|
+| ![Full access timeline with visit classification](screenshots/dashboard-timeline.png) | ![Deduplicated IPs with OSINT lookup links](screenshots/dashboard-ip-lookup.png) | ![Browser and platform breakdown](screenshots/dashboard-devices.png) |
+
+---
+
 ## Features
 
 - **Deceptive templates** — the public page looks like a generic secret share, a banking portal, a crypto wallet, an invoice, a corporate document, or a docs site
