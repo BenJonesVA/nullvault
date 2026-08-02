@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "Self-hosted passive honeypot link tracker for scam baiting and security research.",
   "main": "src/app.js",
+  "license": "MIT",
   "scripts": {
     "start": "node src/app.js",
     "dev": "node --watch src/app.js"

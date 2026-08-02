@@ -1,5 +1,10 @@
 # 🔒 NullVault
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js&logoColor=white)](package.json)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](docker-compose.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/rehatiel/nullvault/pulls)
+
 A self-hosted honeypot link tracker. Create a secret-looking URL, share it with a target, and get notified the instant it's opened — with geolocation, device info, a private control panel, and optional webhook alerts.
 
 Built for scam baiting, OSINT, and catching unauthorized access to sensitive material.
@@ -300,4 +305,4 @@ By using this project, you agree that:
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
